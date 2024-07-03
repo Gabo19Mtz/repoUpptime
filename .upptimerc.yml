@@ -13,6 +13,8 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
     url: forwardemail.net
+  - name: PUCE
+    url: https://www.puce.edu.ec
     port: 80
     check: "tcp-ping"
     ipv6: true
